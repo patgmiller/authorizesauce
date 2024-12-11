@@ -2,8 +2,10 @@
 .DS_Store
 .tox
 .coverage
+.python-version
 docs/_build/
 build/
 dist/
+venv-*
 AuthorizeSauce.egg-info/
 
