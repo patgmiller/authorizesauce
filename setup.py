@@ -70,7 +70,7 @@ setup(
     long_description=__doc__,
     license='MIT',
     install_requires=[
-        'suds-jurko>=0.6',
+        'suds-community==0.7',
         'six>=1.9.0',
     ],
     packages=[
